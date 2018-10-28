@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">সাধারণ জ্ঞান</string>
+    <string name="date_time"><![CDATA[Date & Time]]></string>
+    <string name="noNetwork">Please check your network connection</string>
+
+
+    <string-array name="category">
+        <item>Select Category</item>
+        <item>বাংলাদেশ</item>
+        <item>আন্তর্জাতিক</item>
+        <item>খেলাধুলা</item>
+        <item>বিজ্ঞান ও প্রযুক্তি </item>
+    </string-array>
+</resources>
